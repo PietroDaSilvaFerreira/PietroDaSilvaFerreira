@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @PietroDaSilvaFerreira
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PietroDaSilvaFerreira/PietroDaSilvaFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi eu sou @PietroDaSilvaFerreira
+- 👀 Eu estou interresado em aprender
+- 🌱 Eu estou aprendendo html, css e javascript
+- 💞️ Estou procurando colaborar com aprendizado
+- 📫 Como chegar até mim https://www.instagram.com/piht8090/
+- 😄 Pronomes: Eu!
+- ⚡ Fato engraçado: tenho 13
