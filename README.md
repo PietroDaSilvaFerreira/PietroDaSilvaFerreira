@@ -2,6 +2,5 @@
 - 👀 Eu estou interresado em aprender
 - 🌱 Eu estou aprendendo html, css e javascript
 - 💞️ Estou procurando colaborar com aprendizado
-- 📫 Como chegar até mim https://www.instagram.com/piht8090/
-- 😄 Pronomes: Eu!
-- ⚡ Fato engraçado: tenho 13
+- 📫 Como chegar até mim https://www.instagram.com/pietrof.dev/
+- ⚡ Fato engraçado: tenho 16
